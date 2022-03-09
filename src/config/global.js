@@ -24,215 +24,42 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Componentes',
+        titulo: 'Planes estratégicos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Encabezados',
-            hash: 'encabezados',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Párrafos',
-            hash: 'parrafos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Botones',
-            hash: 'botones',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Listas',
-            hash: 'listas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Tablas',
-            hash: 'tablas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.6',
-            titulo: 'Imagen',
-            hash: 'imagen',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.7',
-            titulo: 'Imagen Infográfica',
-            hash: 'imagen_infografica',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.8',
-            titulo: 'Video',
-            hash: 'video',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.9',
-            titulo: 'Bloques de texto destacado',
-            hash: 'texto_destacado',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.10',
-            titulo: 'Sliders',
-            hash: 'sliders',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.11',
-            titulo: 'Acordiones',
-            hash: 'acordiones',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.12',
-            titulo: 'Pestañas o Tabs',
-            hash: 'tabs',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.13',
-            titulo: 'Líneas de tiempo',
-            hash: 'lineas_tiempo',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.14',
-            titulo: 'Pasos',
-            hash: 'pasos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.15',
-            titulo: 'Llamados a la acción',
-            hash: 'llamados_accion',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.16',
-            titulo: 'Tarjetas',
-            hash: 'tarjetas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.17',
-            titulo: 'Tarjetas con número',
-            hash: 'tarjeta_numero',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.18',
-            titulo: 'Modal',
-            hash: 'modal',
-          },
-        ],
       },
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Producción Audiovisual',
+        titulo: 'Fondos monetarios y políticas de inversión de excedentes',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Infografía Animada',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Video Motion',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Motion + Presentador',
-            hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Animación 2D',
-            hash: 't_2_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.5',
-            titulo: 'Video interactivo',
-            hash: 't_2_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.6',
-            titulo: 'Infografías',
-            hash: 't_2_6',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Fundamentación Textil',
+        titulo: 'Contabilización de hechos económicos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo:
-              'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Identificación fibras por combustión',
-            hash: 't_3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Clasificación de los hilos',
-            hash: 't_3_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.4',
-            titulo: 'Clasificación de tejidos',
-            hash: 't_3_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.5',
-            titulo: 'Caracterización de los tejidos',
-            hash: 't_3_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.6',
-            titulo: 'Procesos textiles',
-            hash: 't_3_6',
-          },
-        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Responsabilidades tributarias',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        icono: 'far fa-file-alt',
+        numero: '5',
+        titulo: 'Estados financieros básicos',
+        desarrolloContenidos: true,
       },
     ],
     subMenu: [
       {
         icono: 'fas fa-sitemap',
-        titulo: 'Sintesis',
+        titulo: 'Síntesis',
         nombreRuta: 'sintesis',
       },
       {
@@ -271,139 +98,148 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Cabrera, R. O., y Rodríguez, M. M. (2016). Modelo de gestión socioempresarial solidario. Pro-offset Editorial S.A.',
+    },
+    {
+      referencia:
+        'Cardozo, C., H. (2015). Contabilidad de entidades de economía solidaria bajo NIIF para PyME. ECOE Ediciones.',
+    },
+    {
+      referencia:
+        'CCB. (s.f.). Manual básico sobre entidades sin ánimo de lucro – ESAL. CCB.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://bibliotecadigital.ccb.org.co/bitstream/handle/11520/26041/Manual%20b%C3%A1sico%20sobre%20entidades%20sin%20%C3%A1nimo%20de%20lucro.pdf?isAllowed=y&sequence=1 ',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Congreso de Colombia. (1998). Ley 454 de 1998. Agosto 6 de 1998. Por la cual se determina el marco conceptual que regula la economía solidaria, se transforma el Departamento Administrativo Nacional de Cooperativas en el Departamento Administrativo Nacional de la Economía Solidaria, se crea la Superintendencia de la Economía Solidaria, se crea el Fondo de Garantías para las Cooperativas Financieras y de Ahorro y Crédito, se dictan normas sobre la actividad financiera de las entidades de naturaleza cooperativa y se expiden otras disposiciones. D.O. No. 43.357',
+    },
+    {
+      referencia:
+        'Congreso de Colombia. (1998). Ley 79 de 1988. Por la cual se actualiza la legislación cooperativa. Diciembre 23 de 1988. D.O. No. 38.648',
+    },
+    {
+      referencia: 'DIAN. (s.f.). Sociedades. DIAN. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://www.dian.gov.co/impuestos/sociedades/ESAL/Paginas/default.aspx#:~:text=Las',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Herrera Ayala, W., y Moreno, C., M. (2017). Planeamiento tributario como instrumento de gestión y su incidencia en la rentabilidad de la empresa Yaev S.A.C. Universidad Nacional Santiago Antunez de Mayolo.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'http://repositorio.unasam.edu.pe/bitstream/handle/UNASAM/3400/T033_72561090_T.pdf?sequence=',
+    },
+    {
+      referencia: 'López, M. I. (2013). Tipos de organizaciones. ',
+      link: 'https://www.buenastareas.com/ensayos/Organizacion/26753753.html ',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
+        'Moreno, Á., S. H. (2019). Actividad 5. Resumen características que deben contener los estados financieros. Universidad del valle de México.',
+      link: 'https://www.coursehero.com/file/43399547/A5-SHMApdf/',
     },
     {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+      referencia: 'Oyuela, M. J. (2020). Indicadores financieros.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.coursehero.com/file/65468873/Indicadores-Financierosdocx/ ',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'Sandalia, S., A. (s.f.) Deberes y obligaciones tributarias. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'https://es.scribd.com/doc/297220698/Deberes-y-Obligaciones-Tributarias ',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Superintendencia de Economía Solidaria. (s.f.). Superintendencia de Economía Solidaria. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://sedeelectronica.supersolidaria.gov.co/SedeElectronica/tramites/tramite.do#no-back-button ',
+    },
+    {
+      referencia:
+        'Supersolidaria. (s.f.). Circular básica contable y financiera. Supersolidaria.',
+      link:
+        'http://supersolidaria.gov.co/es/content/actualizacion-circular-basica-contable-y-financiera',
+    },
+    {
+      referencia:
+        'UNAD. (2021). Proceso: Gestión de recursos administrativos y financieros. UNAD. ',
+      link: 'https://sig.unad.edu.co/documentos/sgc/procedimientos/P-4-5.pdf ',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Documentos contables',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'son todos los comprobantes extendidos por escrito en los que se deja constancia de las operaciones que se realizan en el desarrollo de su actividad, de acuerdo con los usos y costumbres generalizadas y las disposiciones de la ley.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Estados financieros',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'también denominados cuentas anuales, informes financieros o estados contables, son el reflejo de la contabilidad de una empresa y muestran la estructura económica de esta. En los estados financieros se plasman las actividades económicas que se realizan en la empresa durante un determinado período (Moreno, 2019).',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Evasión tributaria',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'figura jurídica que consiste en no pagar de forma consciente y voluntaria algún impuesto establecido por la ley. Esta acción por la que el causante infringe la ley realizando el impago puede tener graves consecuencias para la persona (Herrera, 2017).',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Indicadores financieros',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'son herramientas que se diseñan utilizando la información financiera de la empresa, y son necesarias para medir la estabilidad, la capacidad de endeudamiento, la capacidad de generar liquidez, los rendimientos y las utilidades de la entidad, a través de la interpretación de las cifras, de los resultados y de la información en general (Oyuela, 2020).',
     },
     {
-      termino: 'Moda',
+      termino: 'Impuesto',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'tributo que se paga al Estado para soportar los gastos públicos. Estos pagos obligatorios son exigidos tanto a personas naturales, como a personas jurídicas.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Organizaciones',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'sistemas comerciales diseñados para lograr metas y leyes por medio de los organismos humanos o de la gestión del talento humano y de otro tipo. Están compuestas por subsistemas interrelacionados que cumplen funciones especializadas. Convenio sistemático entre personas para lograr algún propósito específico. Las organizaciones son el objeto de estudio de la ciencia de la administración, a su vez de otras disciplinas como la sociología, la economía y la psicología (López, 2013).',
     },
     {
-      termino: 'DIseño',
+      termino: 'RP - Registro Presupuestal de Compromiso',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'es la imputación presupuestal mediante la cual se afecta en forma definitiva la apropiación, garantizando que esta solo se utilizará para ese fin. Esta operación indica el valor y el plazo de las prestaciones a las que haya lugar (UNAD, 2021).',
     },
     {
-      termino: 'Tipología',
+      termino: 'Sanción tributaria',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'consecuencia del incumplimiento de la obligación tributaria misma. La sanción tributaria, es la pena o multa que el legislador impone a quien estando sometido a una obligación tributaria la evade o incumple (Sandalia, s. f.).',
     },
   ],
   complementario: [
     {
-      texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      texto: 'Supersolidaria. (s.f.). Circular Básica contable y financiera. ',
+      tipo: 'Sitio web',
+      link:
+        'http://supersolidaria.gov.co/es/content/actualizacion-circular-basica-contable-y-financiera',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Cardozo, C., H. (2015). Contabilidad de entidades de economía solidaria bajo NIIF para PyME. ECOE Ediciones.',
+      tipo: 'Libro',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/114319',
     },
     {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
+      texto: 'DIAN. (s. f.). Sociedades. DIAN. ',
+      tipo: 'Sitio web',
+      link:
+        'https://www.dian.gov.co/impuestos/sociedades/ESAL/Paginas/default.aspx',
     },
     {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: ['/downloads/prueba.pdf', '/downloads/prueba.pdf'],
+      texto: 'DIAN. (s. f.). Actualización. DIAN. ',
+      tipo: 'Sitio web',
+      link:
+        'https://www.dian.gov.co/impuestos/sociedades/ESAL/Actualizaci%C3%B3n/Paginas/default.aspx',
     },
     {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: ['https://www.google.com/', 'https://www.google.com/'],
+      texto: 'DIAN. (s.f.). Relación actividades meritorias-económicas. DIAN.',
+      tipo: 'Sitio web',
+      link:
+        'https://www.dian.gov.co/impuestos/sociedades/ESAL/Relaci%C3%B3n%20de%20actividades%20meritorias%20y%20actividades%20econ%C3%B3micas/Paginas/default.aspx',
     },
   ],
   creditos: {
@@ -421,6 +257,28 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'Ruby Esther Abril Espitia',
+        cargo: 'Experta técnica',
+        centro:
+          'Centro de la Industria, la Empresa y los Servicios Regional Norte de Santander',
+      },
+      {
+        nombre: 'Miroslava González Hernández',
+        cargo: 'Diseñador y evaluador instruccional',
+        centro: 'Centro de Gestión Industrial Regional Distrito Capital',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Revisor metodológico y pedagógico',
+        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
+      },
+      {
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica Regional Distrito Capital',
+      },
     ],
     desarrolloProducto: [
       {
@@ -435,25 +293,25 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Diana Carolina Acevedo Barón',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Andrea Paola Botello De la Rosa',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: ' ',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: ' ',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
