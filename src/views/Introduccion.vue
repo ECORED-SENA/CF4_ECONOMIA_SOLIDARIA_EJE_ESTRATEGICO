@@ -21,7 +21,7 @@
     p.mb-4(data-aos="fade") El modelo socioempresarial para la economía solidaria busca generar actividades económicas productivas y rentables, en donde sus excedentes sean invertidos en programas de bienestar integral para sus asociados. Es así como Cabrera y Rodríguez (2016), mencionan que:
 
     .row.justify-content-center.mb-4(data-aos="fade-down")
-      .col-md-10.tarjeta.bg-azul.py-3
+      .col-md-10.tarjeta.bg-azul-degrade.py-3
         .row.justify-content-center
           .col-md-10.text-white
             p.mb-0.text-center El concepto de “modelo de gestión socioempresarial solidario” es la “supraestructura y el suprasistema, organizacional solidario” orientada por la filosofía de la economía solidaria (Ley 454, art. 1-20, 1998), el enfoque praxeológico (Juliao, 2014), el enfoque humanista (Corporación Universitaria Minuto de Dios, 2014; Max Neef, 1998; Sen, 2000) y el enfoque sistémico (De Gregori, 2014).
