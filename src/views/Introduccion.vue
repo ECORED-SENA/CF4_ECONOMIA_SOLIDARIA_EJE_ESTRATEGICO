@@ -21,7 +21,7 @@
     p.mb-4(data-aos="fade") El modelo socioempresarial para la economía solidaria busca generar actividades económicas productivas y rentables, en donde sus excedentes sean invertidos en programas de bienestar integral para sus asociados. Es así como Cabrera y Rodríguez (2016), mencionan que:
 
     .row.justify-content-center.mb-4(data-aos="fade-down")
-      .col-md-10.tarjeta.bg-azul-degrade.py-3
+      .col-md-10.tarjeta.bg-secundario.py-3
         .row.justify-content-center
           .col-md-10.text-white
             p.mb-0.text-center El concepto de “modelo de gestión socioempresarial solidario” es la “supraestructura y el suprasistema, organizacional solidario” orientada por la filosofía de la economía solidaria (Ley 454, art. 1-20, 1998), el enfoque praxeológico (Juliao, 2014), el enfoque humanista (Corporación Universitaria Minuto de Dios, 2014; Max Neef, 1998; Sen, 2000) y el enfoque sistémico (De Gregori, 2014).
@@ -41,10 +41,7 @@
             // source(src='../../public/downloads/Importancia_de_estos_fenomenos_fisicos.mp3' type='audio/mp3')
             |  Your browser does not support the audio tag
 
-
-    .row.justify-content-center.tarjeta.bg-1.mb-4(data-aos="fade-down")
-      .col-md-10.py-3
-        p.mb-0 La gestión socioempresarial de las empresas de la economía solidaria representa un modelo de gestión capaz de generar excedentes económicos, ser sostenibles, sustentables en beneficio del desarrollo integral de sus asociados como actor principal de los fines solidarios implícitos en la legislación (Ley 454 de 1998, Marco Conceptual de las Organizaciones de Economía Solidaria).
+    p.mb-0(data-aos="fade") La gestión socioempresarial de las empresas de la economía solidaria representa un modelo de gestión capaz de generar excedentes económicos, ser sostenibles, sustentables en beneficio del desarrollo integral de sus asociados como actor principal de los fines solidarios implícitos en la legislación (Ley 454 de 1998, Marco Conceptual de las Organizaciones de Economía Solidaria).
 
 </template>
 
