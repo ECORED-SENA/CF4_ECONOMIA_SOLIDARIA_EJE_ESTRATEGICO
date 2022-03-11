@@ -60,6 +60,90 @@
 
     p.mb-5(data-aos="fade") De igual forma, los elementos a tener en cuenta para la elaboración de los estados financieros básicos son los siguientes:
 
+    .row.justify-content-center.mb-5(data-aos="fade-down")
+      .col-md-10
+        h3.text-center.mb-4 Tiempos de los estados financieros
+        TabsA.color-secundario.tema-5
+          .tarjeta.tema4-tarjeta1.bg-blanco.p-4(titulo="Fecha de corte")
+            h4 Fecha de corte
+            p Se entiende como aquella en la cual la información contable es tomada de los libros de contabilidad.  Para el caso de organizaciones solidarias el ejercicio contable aplica igual que para otro tipo de empresas con ánimo de lucro.
+          .tarjeta.tema4-tarjeta1.bg-blanco.p-4(titulo="Periodo contable")
+            h4 Periodo contable
+            p Es un tiempo de referencia que busca emitir información de la situación financiera y el resultado de las operaciones, donde se identifica claramente la fecha de inicio y cierre del periodo contable (Cardozo, 2015).
+            p Los estados financieros se deben emitir, al menos, una vez al año.
+          .tarjeta.tema4-tarjeta1.bg-blanco.p-4(titulo="Cierre de ejercicio contable y publicación anual")
+            h4 Cierre de ejercicio contable y publicación anual
+            p Se procede a comparar los saldos de cada una de las cuentas contables de cada año, respecto a la situación financiera de la empresa y los saldos que están acumulados en el periodo contable. Las organizaciones solidarias supervisadas publican el estado de la situación financiera y el estado de resultados en un medio masivo de circulación nacional.
+
+    p.mb-5(data-aos="fade") Para Cardozo (2015) es importante que los estados financieros reflejen la gestión del gobierno corporativo y que estén sustentados en la revelación de los informes financieros. Para las cooperativas de ahorro y crédito estas gestiones corporativas deben realizarse sobre los siguientes temas.
+
+    .row.mb-5(data-aos="fade-down")
+      h3.text-center.mb-4 Temas para las gestiones corporativas
+      SlyderA.tema-5
+        .row.justify-content-center
+          .col-md-11
+            .tarjeta--container.row.mb-4
+              .col-md-4.tarjeta.color-secundario.p-5
+                .row.justify-content-center.mb-4
+                  .col-7
+                    figure
+                      img(src='@/assets/curso/tema5-slide-tarje1.svg', alt='Consejo de administración')
+                h4.text-normal.mb-1 Consejo de administración
+                p.text-normal Informar si estos órganos o instancias están al tanto de la responsabilidad que implica el manejo de los diferentes riesgos y están debidamente enterados de la gestión. 
+              .col-md-4.tarjeta.color-acento-botones.p-5
+                .row.justify-content-center.mb-4
+                  .col-7
+                    figure
+                      img(src='@/assets/curso/tema5-slide-tarje2.svg', alt='Políticas de división de funciones')
+                h4.mb-1 Políticas de división de funciones
+                p Informar si han sido impartida por el consejo de administración o junta directiva y si estas abarcan todos los ámbitos de operación del negocio.
+              .col-md-4.tarjeta.color-primario.p-5
+                .row.justify-content-center.mb-4
+                  .col-7
+                    figure
+                      img(src='@/assets/curso/tema5-slide-tarje3.svg', alt='Reportes al consejo de administración')
+                h4.mb-1 Reportes al consejo de administración
+                p Informar si los diferentes estamentos le están reportando las distintas posiciones de riesgo. 
+        .row.justify-content-center
+          .col-md-11
+            .tarjeta--container.row.justify-content-center
+              .col-md-4.tarjeta.bg-acento-contenido1.p-5
+                .row.justify-content-center.mb-4
+                  .col-7
+                    figure
+                      img(src='@/assets/curso/tema5-slide-tarje4.svg', alt='Infraestructura tecnológica')
+                h4.text-normal.mb-1 Infraestructura tecnológica
+                p.text-normal Revelar si las áreas cuentan con la infraestructura y planes de contingencia que puedan aportar la información y los resultados necesarios. 
+              .col-md-4.tarjeta.bg-4.p-5
+                .row.justify-content-center.mb-4
+                  .col-7
+                    figure
+                      img(src='@/assets/curso/tema5-slide-tarje5.svg', alt='Estructura organizacional')
+                h4.mb-1 Estructura organizacional
+                p Revelar si existen independencia entre las áreas y a la vez si son dependientes desde el punto de vista funcional.
+
+
+    p.mb-5(data-aos="fade") Finalmente, otro aspecto a tener en cuenta son las notas de revelación que contienen la información adicional y explicativa de los estados financieros (estado de la situación financiera, estado de resultados y flujo de caja), reconocidos como los estados financieros básicos. 
+
+    .row.justify-content-center.mb-5
+      .col-md-11
+        .row.hover-columna.banner
+          .col-md-8
+            img(src='@/assets/curso/tema5-banner.png' alt='Imagen decorativa')
+          .col-md-6.tarjeta.bg-acento-botones.float-right
+            .row.justify-content-center
+              .col-md-11.p-4
+                p.mb-0.text-white Las notas de revelación junto con el manual de políticas contables proporcionan una descripción explicativa de cada una de las cuentas contables y los movimientos que está presente durante el ejercicio contable. 
+
+    p.mb-5(data-aos="fade") Las notas de revelación o aclaratorias representan el estado actual de cada una de las cuentas de balance y nominales proporcionando información fidedigna y veraz de cada informe financiero. Estas notas siempre deben acompañar o complementar los estados financieros básicos de la organización solidaria. Por lo general, contienen la siguiente información.
+
+    .row(data-aos="fade-down")
+      h3.text-center.mb-5 Aspectos de las notas de revelación
+      figure
+        img(src='@/assets/curso/tema5-infog1.svg', alt='Administración')
+
+
+
 
 </template>
 
