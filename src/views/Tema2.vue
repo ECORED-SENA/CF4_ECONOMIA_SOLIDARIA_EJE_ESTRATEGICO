@@ -18,8 +18,72 @@
         figure
           img(src='@/assets/curso/tema2-infog1.svg', alt='Conceptos clave')
 
-      div(x="64%" y="22.5%")
-        h3.mb-2 Registros de aportes
+      div.row.justify-content-center(x="64%" y="22.5%")
+        SlyderE(indicadores="centro")
+          .row.align-items-center
+            .col-md-8
+              h3.mb-2 Activo
+              p Para el caso, de las organizaciones de economía solidaria, las cuentas del activo más importantes que se manejan precisamente por el desarrollo de las actividades económicas y por la naturaleza de la organización, son las siguientes:
+              ul.lista-ul.px-3
+                li.mb-0
+                  i.fas.fa-circle
+                  | Efectivo y equivalentes a efectivo.
+                li.mb-0
+                  i.fas.fa-circle
+                  | Inversiones.
+                li.mb-0
+                  i.fas.fa-circle
+                  | Cartera de crédito. 
+                li.mb-0
+                  i.fas.fa-circle
+                  | Inventarios.
+                li.mb-0
+                  i.fas.fa-circle
+                  | Cuentas por cobrar.
+                li.mb-0
+                  i.fas.fa-circle
+                  | Activos no corrientes mantenidos para la venta.
+                li.mb-0
+                  i.fas.fa-circle
+                  | Activos materiales.
+                li.mb-0
+                  i.fas.fa-circle
+                  | Otros activos.           
+              p Los dos primeros dígitos indican la clase de la cuenta y el grupo, para este caso, todos los grupos inician con 1 porque pertenecen a la clase del activo y el segundo dígito hace referencia al grupo.     
+            .col-md-3
+              img.px-md-3(src='@/assets/curso/tema2-modal-img1-1.svg', alt='Imagen decorativa')
+          .row.align-items-center
+            .col-md-11
+              h3.mb-2 Activo
+              p El grupo 11 que pertenece a la clase del activo y del grupo efectivo y equivalentes a efectivo, corresponde al efectivo considerado con un conjunto de activos financieros en los que se registran los recursos de liquidez inmediata con los que cuenta la entidad del sector solidario y que también pueden utilizarse para fines generales o específicos (Cardozo, 2015).
+              p Así mismo, para dar claridad a la estructura contable en este grupo del efectivo y equivalentes a efectivo para el catálogo de cuentas se describe a continuación el grupo 11, así: 
+            .col-md-7
+              p Efectivo y equivalentes a efectivo (disponible).
+              ul.lista-ul.px-3
+                li.mb-0
+                  i.fas.fa-circle
+                  | Caja.
+                li.mb-0
+                  i.fas.fa-circle
+                  | Bancos y otras entidades.
+                li.mb-0
+                  i.fas.fa-circle
+                  | Remesas en tránsito.
+                li.mb-0
+                  i.fas.fa-circle
+                  | Fondos específicos.
+                li.mb-0
+                  i.fas.fa-circle
+                  | Efectivo restringido.       
+            .col-md-4
+              img(src='@/assets/curso/tema2-modal-img1-2.svg', alt='Imagen decorativa')       
+          .row.align-items-center
+            .col-md-7
+              h3.mb-2 Activo
+              p En este grupo de cuentas se maneja el efectivo disponible de las organizaciones de economía solidaria, así mismo, hay otro grupo de cuentas que se identifican con el código 13 inversiones, es importante resaltar que la Superintendencia de la Economía Solidaria emite en su circular básica contable los procedimientos para el registro y manejo de las inversiones y da unas recomendaciones como, por ejemplo, que se debe realizar un análisis sobre el riesgo de invertir el dinero de los asociados en oportunidades de negocio de inversiones de capital. 
+              p Es importante aclarar que existen grupos de cuentas tanto para el activo, pasivo, patrimonio y las cuentas de resultados, necesarias para el registro contable de los hechos económicos de la empresa de economía solidaria, así como, que cada una de ellas debe cumplir los procedimientos establecidos para su medición descritos en la Ley 1314 de 2009 y el Decreto 3022 de 2013 relacionados con las NIIF para pyme aplicables al sector solidario.
+            .col-md-4
+              img(src='@/assets/curso/tema2-modal-img1-3.svg', alt='Imagen decorativa')    
 
       div.row.justify-content-center(x="64%" y="36.5%")
         .col-md-11
@@ -110,6 +174,7 @@
               | Costos de producción.    
         .col-md-4
           img.px-md-3(src='@/assets/curso/tema2-modal-img5.svg', alt='Imagen decorativa')
+
 
 
     .row.tema1-rectangulo.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
