@@ -18,7 +18,7 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema5-flip1.svg')})`}")
             .tarjeta-flip__contenido.bg-acento-botones.text-white.p-3
-              p <b style="font-size: 18px;">Un activo</b> son todos aquellos bienes de la empresa y que generan recursos económicos futuros representados en beneficios para la empresa. <b style="font-size: 18px;">Un pasivo</b> son todas aquellas obligaciones que contrae el ente económico con terceros sean proveedores, el estado y particulares. Un patrimonio refleja los aportes de los asociados y fundadores, así como los excedentes que generan las actividades meritorias económicas.  
+              p Un <b style="font-size: 18px;">activo</b> son todos aquellos bienes de la empresa y que generan recursos económicos futuros representados en beneficios para la empresa. Un <b style="font-size: 18px;">pasivo</b> son todas aquellas obligaciones que contrae el ente económico con terceros sean proveedores, el estado y particulares. Un <b style="font-size: 18px;">patrimonio</b> refleja los aportes de los asociados y fundadores, así como los excedentes que generan las actividades meritorias económicas.  
               p.mb-0 De tal modo, que con las cuentas que integran el activo, pasivo y patrimonio se prepara el <b style="font-size: 18px;">estado de la situación financiera.</b> 
       .col-md-4.mb-4
         .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")
@@ -27,15 +27,15 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema5-flip2.svg')})`}")
             .tarjeta-flip__contenido.bg-secundario.text-white.p-3
               p De otra parte, las cuentas de ingresos y gastos representan el rendimiento financiero de la empresa solidaria y que se refleja en lo que se conoce como el <b style="font-size: 18px;">estado de resultados.</b>  
-              p.mb-0 Los <b style="font-size: 18px;">ingresos</b> son los incrementos en los beneficios económicos producidos por los activos en un periodo de tiempo determinado. <b style="font-size: 18px;">Los gastos</b> son todas aquellas erogaciones generadas por la empresa para su sustento o funcionamiento, estos se discriminan en gastos administrativos, de ventas y financieros.
+              p.mb-0 Los <b style="font-size: 18px;">ingresos</b> son los incrementos en los beneficios económicos producidos por los activos en un periodo de tiempo determinado. Los <b style="font-size: 18px;">gastos</b> son todas aquellas erogaciones generadas por la empresa para su sustento o funcionamiento, estos se discriminan en gastos administrativos, de ventas y financieros.
       .col-md-4.mb-4
         .tarjeta.tarjeta-flip
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema5-flip3.svg')})`}")
             .tarjeta-flip__contenido.bg-acento-contenido.text-white.p-3
-              p Otro estado financiero básico es <b style="font-size: 18px;">el flujo de caja</b> que determina las <b style="font-size: 18px;">entradas y salidas</b> de efectivo en el normal desarrollo de las actividades meritorias económicas que se ocasionan en un periodo de tiempo determinado.
+              p Otro estado financiero básico es <b style="font-size: 18px;">el flujo de caja</b> que determina <b style="font-size: 18px;">las entradas</b> y <b style="font-size: 18px;">salidas de efectivo</b> en el normal desarrollo de las actividades meritorias económicas que se ocasionan en un periodo de tiempo determinado.
 
-    p(data-aos="fade") Otro aspecto importante es cuando se elaboran los estados financieros; por lo general, las empresas tienen determinado un periodo gravable que inicia en el 01 de enero y termina el 31 de diciembre de cada año. 
+    p(data-aos="fade") Otro aspecto importante es cuando se elaboran <b>los estados financieros</b>; por lo general, las empresas tienen determinado un periodo gravable que inicia en el 01 de enero y termina el 31 de diciembre de cada año. 
 
     p.mb-4(data-aos="fade") En cuanto a la identificación de los estados financieros, se puede mencionar que tanto los informes financieros como las notas aclaratorias, deberán contener como mínimo:
 
@@ -62,7 +62,8 @@
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-10
-        h3.text-center.mb-4 Tiempos de los estados financieros
+        .titulo-sexto.color-acento-contenido
+          p.mb-0 <b>Figura 11.</b> Tiempos de los estados financieros
         TabsA.color-secundario.tema-5
           .tarjeta.tema4-tarjeta1.bg-blanco.p-4(titulo="Fecha de corte")
             h4 Fecha de corte
@@ -78,7 +79,9 @@
     p.mb-5(data-aos="fade") Para Cardozo (2015) es importante que los estados financieros reflejen la gestión del gobierno corporativo y que estén sustentados en la revelación de los informes financieros. Para las cooperativas de ahorro y crédito estas gestiones corporativas deben realizarse sobre los siguientes temas.
 
     .row.mb-5(data-aos="fade-down")
-      h3.text-center.mb-4 Temas para las gestiones corporativas
+      .col-md-12.mb-3.mb-md-0
+        .titulo-sexto.color-acento-contenido
+          p.mb-0 <b>Figura 12.</b> Temas para las gestiones corporativas
       SlyderA.tema-5
         .row.justify-content-center
           .col-md-11

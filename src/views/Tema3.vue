@@ -13,20 +13,24 @@
     .row.justify-content-end.hover-columna.banner.mb-5
       .col-md-8
         img(src='@/assets/curso/tema3-banner.png' alt='Imagen decorativa')
-      .col-md-6.tarjeta.bg-acento-botones.recuadros-bottom-right.float-left
+      .col-md-6.tarjeta.bg-acento-botones.recuadros-bottom-right.float-left-center
         .row
           .col-md-11.p-4
             p.mb-0.text-white Para una adecuada contabilización de los hechos económicos es indispensable contratar un profesional del área de la contaduría pública, responsable del manejo contable y financiero de los recursos de la empresa y del reporte de estas operaciones ante las entidades de control y vigilancia, que, para el caso de las empresas del sector solidario, se encuentran, la Superintendencia de la economía solidaria, la superintendencia financiera y la Dirección de Impuestos y Aduanas Nacionales – DIAN.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-md-5(data-aos="fade-right")
+        .titulo-sexto.color-acento-contenido
+          p.mb-0 <b>Figura 9.</b> Partida doble
         img(src='@/assets/curso/tema3-img1.svg' alt='Partida doble')
       .col-md-5(data-aos="fade-left")
         p De otra parte, para la contabilización de un hecho económico existe un principio contable que se conoce como partida doble y significa que se debe registrar la misma cantidad $$, tanto al débito como al crédito y que por lo menos se deben utilizar dos cuentas contables de cuatro dígitos; a continuación se presenta un esquema del mismo.
         p Además, en la contabilización de un hecho económico hay otro aspecto a tener presente y es la naturaleza de las cuentas y de su saldo según su clase. Cada clase, sea activo, pasivo o patrimonio, ingresos o costos, tiene su forma o movimiento contable para registrar una cifra, tanto al crédito como al débito; esta naturaleza permite conservar el principio contable de partida doble, tal como se aprecia a continuación.  
 
     .row.d-flex.tema-3.mb-5
-      h3.text-center.mb-5 Naturaleza de las cuentas
+      .col-md-12.mb-3.mb-md-0
+        .titulo-sexto.color-acento-contenido
+          p.mb-0 <b>Figura 10.</b> Naturaleza de las cuentas
       .col-md-4.img-center.border-r10.bg-2.py-3.mb-4.mb-md-0
         h2.text-center CUENTAS
         img(src='@/assets/curso/tema3-img2.png' alt='Cuentas')
@@ -210,7 +214,8 @@
                     td Pasivo - IVA generado por ventas 19%
                     td  
                     td.text-center $988.000 
-        p <b style="font-size: 18px;">Hecho económico:</b> registro de recursos para un fondo específico. En donde la cuenta del activo se registra al débito y aumenta y la cuenta del patrimonio se registra al crédito y aumenta, la cuenta fondo mercadeo de productos, cumpliéndose el principio de partida doble. 
+        p <b style="font-size: 18px;">Hecho económico:</b> para el registro de ingresos, interviene la cuenta del activo, y su registro aumenta en el debe y las cuentas del ingreso y del pasivo; sus registros van en el crédito, aumentando. Este asiento contable se conoce como compuesto, porque como observa hay tres cuentas contables participando en el registro. 
+
 
       div(x="29%" y="91%")
         h3.mb-2 Registro contable

@@ -190,7 +190,9 @@
     p.mb-5(data-aos="fade") Entre los objetivos de la implementación de las NIIF (Normas Internacionales de Información Financiera) regidos para el sector solidario se encuentran los siguientes:
 
     .row.mb-5(data-aos="fade-down")
-      h3.text-center.mb-4 Objetivos de las NIFF
+      .col-md-12.mb-3.mb-md-0
+        .titulo-sexto.color-acento-contenido
+          p.mb-0 <b>Figura 6.</b> Objetivos de las NIFF
       figure
         img(src='@/assets/curso/tema2-infog2.svg', alt='Objetivos de las NIFF')
 
@@ -202,7 +204,8 @@
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-10.mb-md-5
-        h3.text-center.mb-4 Tipos de fondos
+        .titulo-sexto.color-acento-contenido
+          p.mb-0 <b>Figura 7.</b> Tipos de fondos
         figure
           img(src='@/assets/curso/tema2-infog3.svg', alt='Tipos de fondos')
 
@@ -229,10 +232,10 @@
         .row.hover-columna.banner
           .col-md-8
             img(src='@/assets/curso/tema2-banner.png' alt='Imagen decorativa')
-          .col-md-6.tarjeta.bg-acento-botones.float-right
+          .col-md-6.tarjeta.bg-acento-botones.float-right.recuadros-top-left-mini 
             .row.justify-content-center
               .col-md-11.p-4
-                p.mb-0.text-white Los fondos de educación también podrán ser creados por las asociaciones mutuales; así mismo, los fondos de empleados podrán un fondo de educación, de acuerdo con el numeral 2 del artículo 19 del Decreto Ley 1481 de 1989, que menciona la obligatoriedad de adelantar programas y actividades relacionadas con la participación democrática y el desempeño idóneo en la gestión empresarial. (Supersolidaria, 2021).
+                p.mb-0.text-white.pt-4 Los fondos de educación también podrán ser creados por las asociaciones mutuales; así mismo, los fondos de empleados podrán un fondo de educación, de acuerdo con el numeral 2 del artículo 19 del Decreto Ley 1481 de 1989, que menciona la obligatoriedad de adelantar programas y actividades relacionadas con la participación democrática y el desempeño idóneo en la gestión empresarial. (Supersolidaria, 2021).
 
     p(data-aos="fade") Los excedentes económicos de la empresa solidaria se podrán destinar al fondo de educación, cumpliendo los procedimientos técnicos y normativos contables, así como las disposiciones realizadas por la asamblea general reflejadas en el plan de acción preparado por la empresa solidaria.
 
@@ -294,7 +297,9 @@
     p.mb-5(data-aos="fade") La circular básica contable y financiera establece los pagos que se pueden registrar con cargo al fondo de solidaridad. En la siguiente figura se exponen cada uno de ellos.
 
     .row.align-items-center.mb-5
-      h4.text-center Pagos para el fondo de solidaridad
+      .col-md-12.mb-3.mb-md-0
+        .titulo-sexto.color-acento-contenido
+          p.mb-0 <b>Figura 8.</b> Pagos para el fondo de solidaridad
       .col-md-5(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema2-infog4.svg', alt='Pagos para el fondo de solidaridad')
@@ -318,7 +323,7 @@
           .col-md-1
             h2.mb-0.text-center(style="color: #727997; font-size: 45px; font-weight: bold;") D
           .col-md-10  
-            p.mb-0 Pago total o parcial de planes de protección de servicios médicos prepagados, servicios funerarios y de exequias o servicios médicos y hospitalarios, así como demás protecciones similares
+            p.mb-0 Pago total o parcial de planes de protección de servicios médicos prepagados, servicios funerarios y de exequias o servicios médicos y hospitalarios, así como demás protecciones similares.
         .row.align-items-center.mb-3
           .col-md-1
             h2.mb-0.text-center(style="color: #678589; font-size: 45px; font-weight: bold;") E
@@ -339,7 +344,9 @@
     p.mb-5(data-aos="fade") Adicional a ello, hay que considerar las políticas para el manejo de excedentes económicos, así: 
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
-      h3.mb-5 Manejo de excedentes
+      .col-md-12.mb-3.mb-md-0
+        .titulo-sexto.color-acento-contenido
+          p.mb-0 <b>Tabla 1.</b> Manejo de excedentes
       .col-md-10  
         figure
           img(src='@/assets/curso/tema2-infog5.svg', alt='Manejo de excedentes')

@@ -31,7 +31,10 @@
     .row.justify-content-center.tarjeta.bg-1.mb-4(data-aos="fade-down")
       .col-md-10.py-4
         .row.align-items-center.mb-4
-          .col-md-7
+          .col-md-12.mb-3.mb-md-0
+            .titulo-sexto.color-acento-contenido
+              p.mb-0 <b>Figura 1.</b> Arquitectura del modelo
+          .col-md-7           
             img(src='@/assets/curso/intro-img1.png' alt='Imagen decorativa')
           .col-md-5.tarjeta.bg-blanco.py-4
             p El modelo dinamiza, combina e integra los niveles estratégico, táctico y operativo y los sistemas social, económico, cultural, ambiental, político, normativo, administrativo y educativo. 

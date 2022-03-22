@@ -21,6 +21,9 @@
     p.mb-4(data-aos="fade") En la siguiente figura se visualizan los procesos administrativos y cómo las preguntas clave encajan en cada uno de ellos:
 
     .row.justify-content-center.align-items-center.mb-5
+      .col-md-12.mb-3.mb-md-0 
+        .titulo-sexto.color-acento-contenido
+          p.mb-0 <b>Figura 2.</b> Procesos administrativos
       .col-md-5.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema1-infog1.svg', alt='Administración')
@@ -29,8 +32,10 @@
         p Existen diversas técnicas para aprovechar los esfuerzos, conocimiento y experiencia del equipo de trabajo con miras a la elaboración del direccionamiento o planes estratégicos, como es reconocido en el mundo empresarial, a los productos que se generan durante esta primera etapa del proceso administrativo. Entre las más reconocidas se tienen:
     
     .row.justify-content-center.hover-columna.banner.mb-4(data-aos="fade-down")
+      .col-md-12.mb-3.mb-md-0 
+        .titulo-sexto.color-acento-contenido
+          p.mb-0 <b>Figura 3.</b> Técnicas para el desarrollo de productos en equipo
       .col-md-10
-        h3.mb-4 Técnicas para el desarrollo de productos en equipo
         .row.justify-content-center.bg-gris.tarjeta.py-4
           .col-md-10
             figure
@@ -66,7 +71,8 @@
 
     .row.justify-content-center.mb-4(data-aos="fade-down")
       .col-md-10.mb-4
-        h2.mb-2 Proceso administrativo: planeación
+        .titulo-sexto.color-acento-contenido
+          p.mb-0 <b>Figura 4.</b> Procesos administrativos de planeación
         p.mb-0 La planeación es un proceso fundamental para el éxito en el corto, mediano o largo plazo de las organizaciones, marcando la diferencia frente a sus competidores directos en cuanto a su posición competitiva en el mercado.
       .bg-gris2.p-2.p-md-4
         figure
@@ -92,9 +98,9 @@
                   .tarjeta.bg-2.p-3(x="43%" y="6%" numero="+")
                     p.text-center.mb-0 ¿Cuál es el valor que proporcionamos a nuestros clientes?
                   .tarjeta.bg-2.p-3(x="63%" y="6%" numero="+")
-                    p.text-center.mb-0 ¿Qué actividades clave requieren nuestras propuestas de valor, canales de distribución, relaciones con clientes y fuentes de ingresos?
+                    p.text-center.mb-0 ¿Qué tipo de relación esperan los diferentes segmentos de mercado?
                   .tarjeta.bg-2.p-3(x="82.5%" y="6%" numero="+")
-                    p.text-center.mb-0 ¿Cuál es el valor que proporcionamos a nuestros clientes?
+                    p.text-center.mb-0 ¿Para quién creamos valor?
                   .tarjeta.bg-2.p-3(x="23%" y="38%" numero="+")
                     p.text-center.mb-0 ¿Qué recursos clave requiere la propuesta de valor, los canales de distribución, relaciones con clientes y fuentes de ingresos?
                   .tarjeta.bg-2.p-3(x="63%" y="38%" numero="+")
@@ -121,7 +127,8 @@
 
     p.mb-5(data-aos="fade") Cada uno de estos procesos administrativos busca que la empresa, en el normal desarrollo de sus actividades, logre una gestión oportuna, eficaz y eficiente en todas sus operaciones. En la siguiente figura se observan las funciones principales para cada uno de los procesos mencionados y sus fines frente a la gestión empresarial.
 
-    h2.text-center.mb-5(data-aos="fade-down") Funciones principales del proceso administrativo, luego de la planeación
+    .titulo-sexto.color-acento-contenido(data-aos="fade-down")
+      p.mb-0 <b>Figura 5.</b> Funciones principales del proceso administrativo, luego de la planeación
 
     .row.tema-1(data-aos="fade-down")
       .col-md-3.mb-4
