@@ -16,7 +16,7 @@
     .row.justify-content-center.mb-4(data-aos="fade-down")
       .col-md-10
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/QjpDXpnhjIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     p.mb-4(data-aos="fade") El modelo socioempresarial para la economía solidaria busca generar actividades económicas productivas y rentables, en donde sus excedentes sean invertidos en programas de bienestar integral para sus asociados. Es así como Cabrera y Rodríguez (2016), mencionan que:
 
