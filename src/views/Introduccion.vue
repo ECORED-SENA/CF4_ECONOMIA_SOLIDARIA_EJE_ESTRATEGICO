@@ -41,7 +41,7 @@
             p Esta última clase de sistemas está agrupada en los cinco ejes: 1) desarrollo humano y social solidario; 2) desarrollo cultural solidario; 3) desarrollo empresarial solidario; 4) desarrollo territorial solidario y 5) educación socioempresarial solidaria. 
         .wrap-player
           audio(controls='')(style= "width: 100%")
-            // source(src='../../public/downloads/Importancia_de_estos_fenomenos_fisicos.mp3' type='audio/mp3')
+            source(src='../../public/downloads/Arquitectura.mp3' type='audio/mp3')
             |  Your browser does not support the audio tag
 
     p.mb-0(data-aos="fade") La gestión socioempresarial de las empresas de la economía solidaria representa un modelo de gestión capaz de generar excedentes económicos, ser sostenibles, sustentables en beneficio del desarrollo integral de sus asociados como actor principal de los fines solidarios implícitos en la legislación (Ley 454 de 1998, Marco Conceptual de las Organizaciones de Economía Solidaria).
