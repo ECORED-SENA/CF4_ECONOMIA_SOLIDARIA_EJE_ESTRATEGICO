@@ -29,7 +29,7 @@
         ul.lista-ul--color.color-verde2.px-md-0.px-2.mb-0
           li 
             i.fas.fa-check
-            | Tarifa del 20% del impuesto de renta y complementario sobre el beneficio neto o excedente.
+            | Tarifa del 20 % del impuesto de renta y complementario sobre el beneficio neto o excedente.
           li.mb-0 
             i.fas.fa-check
             | Adicionalmente, se puede tener carácter de exento cuando se destine directa o indirectamente a programas que desarrollen el objeto social y la actividad meritoria de la entidad, en el siguiente año gravable, luego de obtener el excedente.
@@ -67,7 +67,7 @@
           .row.justify-content-center.tema4-tarjeta2.bg-gris4.py-4.multi-collapse2.collapse(data-bs-parent='#MapaGroup01')
             .col-md-10.mb-4          
               p Un segundo paso es la readmisión, de acuerdo con el artículo 19-4 del Estatuto Tributario, las cooperativas, sus asociaciones, uniones, ligas centrales, organismos de grado superior de carácter financiero, las asociaciones mutualistas, instituciones auxiliares del cooperativismo, confederaciones cooperativas, previstas en la legislación cooperativa, vigilados por alguna superintendencia u organismo de control pertenecen al Régimen Tributario Especial - RTE y, por lo tanto, no requieren calificarse en el mencionado régimen, salvo en los casos que sean reclasificadas al régimen ordinario, por no presentar anualmente el proceso de actualización del registro web, o porque sea excluida por encontrarse incursa en alguna de las causales de exclusión relacionadas en el parágrafo 3 del artículo 364-3 del Estatuto Tributario. 
-              p.mb-0 En ese caso, podrá optar por pertenecer nuevamente al RTE, siempre y cuando, hayan transcurridos 3 años de su exclusión.
+              p.mb-0 En ese caso, podrá optar por pertenecer nuevamente al RTE, siempre y cuando, hayan transcurrido 3 años de su exclusión.
 
           .row.justify-content-center.tema4-tarjeta3.bg-gris4.py-4.multi-collapse3.collapse(data-bs-parent='#MapaGroup01')
             .col-md-10.mb-4          
@@ -79,7 +79,7 @@
                   | La actualización de la información en el registro web, cuya periodicidad es anual.
                 li.mb-0 
                   i.fas.fa-check
-                  | La actualización de la calidad contribuyente pertenecientes al Régimen Tributario Especial en el RUT a que se refiere el artículo 356-3 del E. T., adicionado por el artículo 149 de la Ley 1819 de 2016, la cual se hace con la presentación de la declaración de renta como contribuyente del RTE.
+                  | La actualización de la calidad contribuyente perteneciente al Régimen Tributario Especial en el RUT a que se refiere el artículo 356-3 del E. T., adicionado por el artículo 149 de la Ley 1819 de 2016, la cual se hace con la presentación de la declaración de renta como contribuyente del RTE.
 
     .row.justify-content-center.mb-5
       .col-md-10(data-aos="fade-down")
@@ -97,7 +97,7 @@
     figure.mb-4(data-aos="fade-down")
       img(src='@/assets/curso/tema4-infog.svg', alt='Proceso administrativo: planeación')
 
-    p.mb-5(data-aos="fade") En complemento a lo establecido por la DIAN para los contribuyentes que pertenecen al Régimen Tributario Especial - RTE, la entidad identifica la relación de las actividades meritorias-económicas que gozan del beneficio más representativo, que es la tasa del impuesto de renta y complementarios en 20%; de modo tal, que este listado orienta las empresas de economía solidaria a emprender sus modelos de negocios en el desarrollo de estas actividades meritorias-económicas y gocen de los beneficios tributarios.
+    p.mb-5(data-aos="fade") En complemento a lo establecido por la DIAN para los contribuyentes que pertenecen al Régimen Tributario Especial - RTE, la entidad identifica la relación de las actividades meritorias-económicas que gozan del beneficio más representativo, que es la tasa del impuesto de renta y complementarios en 20 %; de modo tal, que este listado orienta las empresas de economía solidaria a emprender sus modelos de negocios en el desarrollo de estas actividades meritorias-económicas y gocen de los beneficios tributarios.
 
     .row.justify-content-center.mb-5
       .col-md-10(data-aos="fade-down")

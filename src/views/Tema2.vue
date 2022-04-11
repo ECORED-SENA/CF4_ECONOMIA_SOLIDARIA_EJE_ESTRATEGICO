@@ -192,9 +192,9 @@
     .row.mb-5(data-aos="fade-down")
       .col-md-12.mb-3.mb-md-0
         .titulo-sexto.color-acento-contenido
-          p.mb-0 <b>Figura 6.</b> Objetivos de las NIFF
+          p.mb-0 <b>Figura 6.</b> Objetivos de las NIIF
       figure
-        img(src='@/assets/curso/tema2-infog2.svg', alt='Objetivos de las NIFF')
+        img(src='@/assets/curso/tema2-infog2.svg', alt='Objetivos de las NIIF')
 
     p(data-aos="fade") En consecuencia, para una adecuada gestión contable y financiera de la empresa de economía solidaria se requiere una asesoría permanente del profesional de la contaduría pública que garantice el cumplimiento oportuno de la normativa contable establecida en la Ley 1314 de 2009. De otra parte, hay que mencionar que la Supersolidaria emitió la Circular Básica Contable y Financiera Externa 22 de 2020, que entró en vigencia con la publicación en el Diario Oficial 51.570 del 27 de enero de 2021. 
 

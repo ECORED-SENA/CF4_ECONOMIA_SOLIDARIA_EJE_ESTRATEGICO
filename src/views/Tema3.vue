@@ -106,9 +106,9 @@
       div(x="29%" y="8.5%")
         h3.mb-2 Registros de aportes
         p Una de las primeras transacciones, <b style="font-size: 18px;">es el registro de los aportes</b> realizados por cada asociado; para lo cual en los estatutos de la entidad se deben mencionar el aporte mínimo irreducible y el valor total de los aportes sociales. 
-        p Estos aportes mínimos irreducibles y el total de aportes sociales pueden ser incrementados, previa autorización de la asamblea y esta decisión obedecerá a la proporción de crecimiento económico que tenga la empresa.
+        p Estos aportes mínimos irreducibles y el total de aportes sociales pueden ser incrementados, previa autorización de la asamblea, y esta decisión obedecerá a la proporción de crecimiento económico que tenga la empresa.
         p Según el artículo 52 de la Ley 79 de 1988, las entidades podrán establecer en sus estatutos la amortización parcial o total de los aportes sociales hechos por los asociados, mediante la constitución de un fondo especial denominado Fondo para amortización de aportes, cuyos recursos provendrán del remanente de los excedentes. La amortización se hará en igualdad de condiciones para los asociados (Cardozo, 2015).
-        p De tal manera, que bajo este artículo que refiere la legislación el registro contable de la constitución del fondo por mandato de la asamblea, es:
+        p De tal manera, que bajo este artículo que refiere la legislación, el registro contable de la constitución del fondo por mandato de la asamblea, es:
         .row.justify-content-center.mb-3
           .col-md-10
             .tabla-a
@@ -134,7 +134,7 @@
 
       div(x="21%" y="29.5%")
         h3.mb-2 Fondo específico
-        p Otro ejemplo, es la creación de un fondo específico como el fondo de mercadeo de productos, cuya finalidad es adquirir un capital de trabajo para el mercadeo de productos. Es de aclarar, que este tipo de fondos de destinación específica, no podrán ser cambiado de acuerdo con los reglamentos de la entidad del sector solidario.
+        p Otro ejemplo, es la creación de un fondo específico como el fondo de mercadeo de productos, cuya finalidad es adquirir un capital de trabajo para el mercadeo de productos. Es de aclarar, que este tipo de fondos de destinación específica, no podrán ser cambiados de acuerdo con los reglamentos de la entidad del sector solidario.
         p Una cooperativa bananera recibe de una empresa de jugos naturales, el valor de $8.000.000 como aporte de patrocinio para el crecimiento económico de la cooperativa. El registro contable quedaría: 
         .row.justify-content-center.mb-3
           .col-md-10
@@ -211,7 +211,7 @@
                     td  
                     td.text-center $5.200.000
                   tr
-                    td Pasivo - IVA generado por ventas 19%
+                    td Pasivo - IVA generado por ventas 19 %
                     td  
                     td.text-center $988.000 
         p <b style="font-size: 18px;">Hecho económico:</b> para el registro de ingresos, interviene la cuenta del activo, y su registro aumenta en el debe y las cuentas del ingreso y del pasivo; sus registros van en el crédito, aumentando. Este asiento contable se conoce como compuesto, porque como observa hay tres cuentas contables participando en el registro. 
@@ -272,7 +272,7 @@
 
       div(x="81%" y="29.5%")
         h3.mb-2 CDT
-        p Otra transacción común entre las organizaciones de economía solidaria, son las relacionadas al registro de inversiones. Ejemplo: una empresa de economía solidaria, adquiere un título CDT por la suma de $30.000.000 y pactado a seis meses con una tasa del 6% anual por mes vencido. Los registros contables quedarían:
+        p Otra transacción común entre las organizaciones de economía solidaria, son las relacionadas con el registro de inversiones. Ejemplo: una empresa de economía solidaria, adquiere un título CDT por la suma de $30.000.000 y pactado a seis meses con una tasa del 6 % anual por mes vencido. Los registros contables quedarían:
         .row.justify-content-center.mb-3
           .col-md-10
             .tabla-a

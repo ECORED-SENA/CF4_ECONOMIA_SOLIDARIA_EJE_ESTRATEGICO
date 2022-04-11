@@ -47,7 +47,7 @@
             | El nombre de la entidad que informa.
           li.mb-3 
             i.fas.fa-check
-            | Aclarar en los informes financieros, si son individuales o pertenecen a un grupo de entidade
+            | Aclarar en los informes financieros, si son individuales o pertenecen a un grupo de entidades.
           li.mb-3 
             i.fas.fa-check
             | La fecha final de cierre o corte contable de presentación de los informes financieros.
@@ -99,7 +99,7 @@
                     figure
                       img(src='@/assets/curso/tema5-slide-tarje2.svg', alt='Políticas de división de funciones')
                 h4.mb-1 Políticas de división de funciones
-                p Informar si han sido impartida por el consejo de administración o junta directiva y si estas abarcan todos los ámbitos de operación del negocio.
+                p Informar si han sido impartidas por el consejo de administración o junta directiva y si estas abarcan todos los ámbitos de operación del negocio.
               .col-md-4.tarjeta.color-primario.p-5
                 .row.justify-content-center.mb-4
                   .col-7
