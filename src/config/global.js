@@ -1,7 +1,7 @@
 export default {
   global: {
     componenteFormativo:
-      'Gestión estratégica para las organizaciones de economía solidaria',
+      'Gestión socio-empresarial para las organizaciones de economía solidaria',
     descripcionCurso:
       'Las empresas de economía solidaria, en la gestión normal de su negocio, buscan generar estrategias para la innovación, el mercadeo y el área financiera con el fin de conseguir un crecimiento sustentable, reflejándose en la generación de nuevos puestos de trabajo, la mejora en salarios y demás prestaciones al equipo de trabajadores. ',
     //imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
@@ -233,13 +233,13 @@ export default {
       texto: 'DIAN. (s. f.). Actualización. DIAN. ',
       tipo: 'Sitio web',
       link:
-        'https://www.dian.gov.co/impuestos/sociedades/ESAL/Actualizaci%C3%B3n/Paginas/default.aspx',
+        'https://www.dian.gov.co/impuestos/sociedades/ESAL/Actualizacion/Paginas/default.aspx',
     },
     {
       texto: 'DIAN. (s.f.). Relación actividades meritorias-económicas. DIAN.',
       tipo: 'Sitio web',
       link:
-        'https://www.dian.gov.co/impuestos/sociedades/ESAL/Relaci%C3%B3n%20de%20actividades%20meritorias%20y%20actividades%20econ%C3%B3micas/Paginas/default.aspx',
+        'https://www.dian.gov.co/impuestos/sociedades/ESAL/Relacion-de-actividades-meritorias-y-actividades-economicas/Paginas/default.aspx',
     },
   ],
   creditos: {

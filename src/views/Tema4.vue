@@ -88,7 +88,7 @@
               h4.text-white.mb-0 Actualización
               p.text-white.mb-0 Las entidades sin ánimo de lucro y del sector cooperativo clasificadas en el RTE deberán actualizar anualmente la información en el Registro Web. Lea atentamente en qué consiste de acuerdo con lo estipulado en el Decreto Único Reglamentario en Materia Tributaria - DUR No. 1625 de 2016. Este recurso se encuentra también en el material complementario.
             .col-sm-auto
-              a.boton.color-primario(href="https://www.dian.gov.co/impuestos/sociedades/ESAL/Actualizaci%C3%B3n/Paginas/default.aspx" target="_blank")
+              a.boton.color-primario(href="https://www.dian.gov.co/impuestos/sociedades/ESAL/Actualizacion/Paginas/default.aspx" target="_blank")
                 i.fas.fa-book-reader 
                 span Leer
 
@@ -106,7 +106,7 @@
               h4.text-white.mb-0 Actividades económicas
               p.text-white.mb-0 Conozca el listado de las actividades económicas que gozan beneficios tributarios. Este recurso se encuentra también en el material complementario.
             .col-sm-auto
-              a.boton.color-primario(href="https://www.dian.gov.co/Paginas/PageNotFoundError.aspx?requestUrl=https://www.dian.gov.co/impuestos/sociedades/ESAL/Relaci%C3%B3n%20de%20actividades%20meritorias%20y%20actividades%20econ%C3%B3micas/Paginas/default.aspx" target="_blank")
+              a.boton.color-primario(href="https://www.dian.gov.co/impuestos/sociedades/ESAL/Relacion-de-actividades-meritorias-y-actividades-economicas/Paginas/default.aspx" target="_blank")
                 i.fas.fa-book-reader 
                 span Leer
 

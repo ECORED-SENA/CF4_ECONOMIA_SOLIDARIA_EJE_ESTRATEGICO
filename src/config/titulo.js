@@ -1,2 +1,2 @@
 module.exports =
-  'Gestión estratégica para las organizaciones de economía solidaria'
+  'Gestión socio-empresarial para las organizaciones de economía solidaria'
